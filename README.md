@@ -1,8 +1,8 @@
-### Olá! Bem vindo ao meu GitHub 🧑‍🏫
+### Olá! Bem vindo ao meu GitHub 👍✌
 ##
 <div align="center">
-  <a href="https://github.com/Noobpro112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noobpro112&show_icons=true&theme=shadow_red"/>
+  <a href="https://github.com/noobpro112">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noobpro112&show_icons=true&theme=shadow_red"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobpro112&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
 
