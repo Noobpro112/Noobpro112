@@ -24,3 +24,10 @@
 <div>
 <a href="https://www.linkedin.com/in/matheus-yan-dos-reis-11361027a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+<div align="center">
+<br><p align="centre">
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Noobpro112}/count.svg" /></p> 
+<br>
+</div>
