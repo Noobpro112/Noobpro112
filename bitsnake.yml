@@ -10,7 +10,6 @@ on:
   # Executa a cada push na branch master
   push:
     branches:
-      - master
       - main
 jobs:
   generate:
