@@ -2,8 +2,8 @@
 ##
 <div align="center">
   <a href="https://github.com/noobpro112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noobpro112&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noobpro112&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noobpro112&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobpro112&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noobpro112&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/noobpro112)
